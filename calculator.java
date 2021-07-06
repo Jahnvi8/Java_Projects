@@ -18,7 +18,7 @@ class calculator extends JFrame implements ActionListener {
 	static JTextField l;
 
 	// store operator and operands
-	String s0, s1, s2;
+	String s0, s1, s2; 
 
 	// default constructor
 	calculator() {
